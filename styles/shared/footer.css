@@ -1,0 +1,14 @@
+
+#social-menu ul{
+    list-style: none;
+    text-align: center;
+  
+  }
+  
+  #social-menu li{
+    display: inline;
+    margin: 10px;
+    color: green;
+  
+  }
+  
